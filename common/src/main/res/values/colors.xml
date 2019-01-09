@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="color_252222">#252222</color><!--底部导航选中-->
+    <color name="color_7c7a7a">#7C7A7A</color><!--底部导航未选中-->
+    <color name="color_FBCD09">#FBCD09</color>
+</resources>
